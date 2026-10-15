@@ -3,7 +3,7 @@
 ### Desenvolvedor Full Stack | Java e Spring Boot | Estudante na UTFPR
 
 - 🎓 Atualmente estudo na **Universidade Tecnológica Federal do Paraná (UTFPR)**.
-- ☕ D **Full Stack**, com foco em **Java, Spring Boot, APIs REST e autenticação com JWT**.
+- ☕ Desenvolvedor **Full Stack**, com foco em **Java, Spring Boot, APIs REST e autenticação com JWT**.
 - 💻 Atuo com **Angular, TypeScript, Java, Oracle Forms, PL/SQL e DevExpress**.
 - 🔄 Trabalho na **migração de sistemas legados**, correção de bugs e desenvolvimento de novas funcionalidades.
 - 🗄️ Tenho experiência com **MySQL, SQL Server e MongoDB**, além de migração de dados, views, procedures e scripts SQL.
